@@ -1,0 +1,17 @@
+{
+  "name": "2y2son4",
+  "version": "1.0.0",
+  "description": "Photobooth FUNctastic",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.5 <2.23.2"
+  },
+  "dependencies": {
+    "sass": "^1.32.11"
+  }
+}
